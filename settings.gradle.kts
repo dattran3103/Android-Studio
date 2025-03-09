@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Buoi07.2"
+rootProject.name = "Buoi07"
 include(":app")
  
